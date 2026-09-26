@@ -1,0 +1,22 @@
+{
+  "source_points": [
+    [
+      0,
+      0
+    ],
+    [
+      100,
+      0
+    ],
+    [
+      100,
+      100
+    ],
+    [
+      0,
+      100
+    ]
+  ],
+  "road_width_meters": 10.0,
+  "road_length_meters": 30.0
+}
